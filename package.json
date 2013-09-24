@@ -1,0 +1,18 @@
+{
+  "version": "0.0.1",
+  "name":"gaffa-boilerplate",
+  "description": "Easily creates boilerplate for gaffa apps",
+  "main": "Install-This-Globally.js",
+  "engines": {
+    "node": ">=0.6"
+  },
+  "dependencies": {
+    "commander": "2.0.x",
+    "fs-extra": "0.6.x"
+  },
+  "license": "MIT",
+  "bin": {
+    "gaffa-boilerplate": "./gaffa-boilerplate.js"
+  },
+  "preferGlobal": true
+}
