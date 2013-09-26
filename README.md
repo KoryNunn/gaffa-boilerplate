@@ -12,7 +12,7 @@ Go to a directory, and gaffa-boilerplate.
 
 This will create boilerplate files in that directory.
 
-## Options ## 
+## Options ##
 
   -s (--scriptsOnly)
 
