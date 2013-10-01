@@ -1,5 +1,5 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.3",
   "name":"gaffa-boilerplate",
   "description": "Easily creates boilerplate for gaffa apps",
   "main": "Install-This-Globally.js",
