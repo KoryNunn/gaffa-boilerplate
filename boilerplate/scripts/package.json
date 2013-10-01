@@ -10,6 +10,6 @@
     "gaffa": "0.13.x"
   },
   "dev-dependencies": {
-    "browserify": ">=0.0.0"
+    "browserifyer": ">=0.0.0"
   }
 }
