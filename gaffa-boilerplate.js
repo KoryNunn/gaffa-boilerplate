@@ -36,8 +36,7 @@ function install(){
 if(program.browserify){
     browserifyer();
 }else{
-
-    fs.exists(path.join(fromPath, program.scriptsOnly ? 'app.js' : 'index.html'), function(exists){
+    fs.exists(path.join(process.cwd(), program.scriptsOnly ? 'app.js' : 'index.html'), function(exists){
         if(exists){
             console.warn('Warning: this directory contains files that would have been overwritten! Just starting browserifyer instead.');
             browserifyer();
