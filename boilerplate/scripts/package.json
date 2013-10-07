@@ -7,9 +7,9 @@
     "node": ">=0.6"
   },
   "dependencies": {
-    "gaffa": "0.13.x"
+    "gaffa": "x.x.x"
   },
   "dev-dependencies": {
-    "browserifyer": ">=0.0.0"
+    "browserifyer": "x.x.x"
   }
 }
