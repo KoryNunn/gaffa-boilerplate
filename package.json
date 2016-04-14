@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "name":"gaffa-boilerplate",
+  "name": "gaffa-boilerplate",
   "description": "Easily creates boilerplate for gaffa apps",
   "main": "Install-This-Globally.js",
   "engines": {
@@ -14,5 +14,18 @@
   "bin": {
     "gaffa-boilerplate": "./gaffa-boilerplate.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoryNunn/gaffa-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/KoryNunn/gaffa-boilerplate/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/gaffa-boilerplate#readme"
 }
